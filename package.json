@@ -7,6 +7,10 @@
     "build": "tsc",
     "test": "tsc && node dist/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6hislain/iframe-visible.git"
+  },
   "keywords": [
     "iframe",
     "embed",
