@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+*.log
+coverage/
+dist/
+build/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
