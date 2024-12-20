@@ -1,6 +1,6 @@
 {
   "name": "iframe-visible",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A TypeScript package to check if a link is embeddable in an iframe.",
   "main": "dist/index.js",
   "scripts": {
